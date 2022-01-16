@@ -3,7 +3,7 @@
 
 }
 body{
-  background-color: whitesmoke;
+  background-color: white;
   font-style: oblique;
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
@@ -30,10 +30,10 @@ main {
 
 
 
-.fa-twitter-square{
-  font-size: 1rem;
+.fa-utensils{
+  font-size: 2rem;
 }
 
-.fa-twitter-square:hover{
+.fa-utensils:hover{
   color: purple;
 }
